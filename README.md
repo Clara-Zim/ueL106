@@ -5,4 +5,6 @@ Exemple d'hébergement de site statique avec Github pages
 - Finir le TP n°1
 ## url d'hébergement 
 
-url : 
+url GitHub : https://clara-zim.github.io/ueL106/ 
+url Hosting : https://zimmermann6.hosting.unilim.fr/UEL106/
+
